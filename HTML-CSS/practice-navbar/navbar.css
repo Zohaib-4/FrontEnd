@@ -29,8 +29,6 @@ a{
     margin-top: 20px;
 }
 
-
-
 button{
     background-color: #04090f;
     color: #fff;
@@ -39,5 +37,14 @@ button{
     padding: 20px;
     font-size: 0.8em;
     margin-right: 100px;
+}
+
+th, td{
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+tr :nth-child(even){
+    background-color: aqua;
 }
 
