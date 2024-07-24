@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(187, 235, 235);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.navbar {
+    background-color: rgb(238, 99, 6);
+    size: 50;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar1{   
+    margin-top: 7px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    color: #fff;
+    padding: 20px;
+}
+
+.navbar2{
+    margin-top: 7px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    color: #fff;
+}
+
+button{
+    background-color: #04090f;
+    color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0) ;
+    border-radius: 100px;
+    display: inline-block;
+    padding: 8px;
+    font-size: 0.8em;
+}
+
